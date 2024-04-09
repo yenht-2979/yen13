@@ -1,8 +1,8 @@
 # Project Name
-
+Apollo
 ## Description
 
-This is a sample project that demonstrates the usage of Apollo GraphQL.
+This is a sample project that demonstrates the usage of Apollo.
 
 ## Installation
 
